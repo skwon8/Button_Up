@@ -1,0 +1,49 @@
+
+
+.btn {
+    position: absolute;
+    top: 5%;
+}
+
+#first {
+    background: transparent;
+    color: aquamarine;
+    width: 100px;
+    height: 30px;
+    font-family: sans-serif;
+    font-size: 15px;
+    border-color: aquamarine;
+    font-weight: 400;
+    border-radius: 50px;
+}
+
+#second {
+    color: white;
+    background-color: aquamarine;
+    width: 30px;
+    height: 30px;
+    font-size: 20px;
+    text-align: center;
+    border-color: aquamarine;
+    border-radius: 100%;
+}
+
+.plus {
+    position: absolute;
+    top: 8%;
+}
+
+#third {
+    color: white;
+    background-color: #007aff;
+    position:absolute;
+    border: 1px solid black;
+    top: 12%;
+    width: 150px;
+    height: 30px;
+    font-size: 13px;
+    font-weight: bold; 
+    box-shadow: 20px 20px;
+}
+
+
